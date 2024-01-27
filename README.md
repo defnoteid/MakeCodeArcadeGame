@@ -1,4 +1,4 @@
-
+<!--
 > Open this page at [https://defnoteid.github.io/makecodearcadegame/](https://defnoteid.github.io/makecodearcadegame/)
 
 ## Use as Extension
@@ -22,3 +22,7 @@ To edit this repository in MakeCode.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+-->
+hello<br>
+i work on this<br>
+play it here: [https://defnoteid.github.io/makecodearcadegame/](https://defnoteid.github.io/makecodearcadegame/)
