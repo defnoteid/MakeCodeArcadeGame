@@ -23,6 +23,10 @@ To edit this repository in MakeCode.
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 -->
-hello<br>
-i work on this<br>
-play it here: [https://defnoteid.github.io/makecodearcadegame/](https://defnoteid.github.io/makecodearcadegame/)
+> [!NOTE]
+> cancelled and archived<br>
+> no more
+
+> hello<br>
+> i work on this<br>
+> play it here: [https://defnoteid.github.io/makecodearcadegame/](https://defnoteid.github.io/makecodearcadegame/)
